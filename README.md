@@ -17,3 +17,12 @@ Procedural Steps:
 -Feature engineering
 -Data Binning
 -Data Modelling
+
+USed different algorithms like:
+-SVM
+-Naive Bayes
+-Random Forest
+-Decison tree
+-KNN
+
+After applying the algorithms then calculating the score to predict the more accurate model by cross fold validation.
